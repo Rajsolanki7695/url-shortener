@@ -85,4 +85,4 @@ php artisan test --filter=InvitationConstraintTest
 
 ## AI Tools Used: ChatGPT
 
-I used ChatGPT only to assist with creating the HTML code and Laravel migration file code. The AI assistance was limited to generating the initial code structure and syntax. The overall workflow, implementation decisions, and reasoning were my own.
+I used ChatGPT to assist with creating the HTML code, Laravel migration file code, and test case code. The AI assistance was limited to generating code and helping with syntax. The overall workflow, implementation decisions, and reasoning were my own.
